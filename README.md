@@ -1,9 +1,5 @@
 # Minesweeper
 
-## Getting Started and Submission
-
-Please fork this repository and when ready to submit, create a Pull Request.
-
 ## Installation
 
 It assumes you have the latest node and yarn installed.
